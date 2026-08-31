@@ -5,6 +5,8 @@ on:
     - cron: "*/1 * * * *"
   workflow_dispatch:
 
+permissions: {}
+
 jobs:
   sync:
     runs-on: ubuntu-latest
