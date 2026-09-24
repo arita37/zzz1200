@@ -16,6 +16,7 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_android.git &
           git clone https://github.com/v-modal/vmodal_sdk_flutter.git &
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
+          git clone https://github.com/v-modal/vmodal_sdk_smartglass &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
           python -m pip install vmodal
 
@@ -27,8 +28,10 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_android.git &
           git clone https://github.com/v-modal/vmodal_sdk_flutter.git &
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
+          git clone https://github.com/v-modal/vmodal_sdk_smartglass &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
           python -m pip install vmodal
+
 
 
   sync3:
@@ -39,8 +42,10 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_android.git &
           git clone https://github.com/v-modal/vmodal_sdk_flutter.git &
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
+          git clone https://github.com/v-modal/vmodal_sdk_smartglass &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
           python -m pip install vmodal
+
 
 
 
@@ -52,8 +57,10 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_android.git &
           git clone https://github.com/v-modal/vmodal_sdk_flutter.git &
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
+          git clone https://github.com/v-modal/vmodal_sdk_smartglass &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
           python -m pip install vmodal
+
 
 
 
@@ -91,8 +98,10 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_android.git &
           git clone https://github.com/v-modal/vmodal_sdk_flutter.git &
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
+          git clone https://github.com/v-modal/vmodal_sdk_smartglass &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
           python -m pip install vmodal
+
 
 
 
@@ -104,8 +113,10 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_android.git &
           git clone https://github.com/v-modal/vmodal_sdk_flutter.git &
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
+          git clone https://github.com/v-modal/vmodal_sdk_smartglass &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
           python -m pip install vmodal
+
 
 
 
@@ -130,8 +141,10 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_android.git &
           git clone https://github.com/v-modal/vmodal_sdk_flutter.git &
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
+          git clone https://github.com/v-modal/vmodal_sdk_smartglass &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
           python -m pip install vmodal
+
 
 
 
@@ -143,8 +156,10 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_android.git &
           git clone https://github.com/v-modal/vmodal_sdk_flutter.git &
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
+          git clone https://github.com/v-modal/vmodal_sdk_smartglass &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
           python -m pip install vmodal
+
 
 
 
@@ -169,8 +184,10 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_android.git &
           git clone https://github.com/v-modal/vmodal_sdk_flutter.git &
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
-          git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git &
+          git clone https://github.com/v-modal/vmodal_sdk_smartglass &
+          git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
           python -m pip install vmodal
+
 
 
 
@@ -195,7 +212,9 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_android.git &
           git clone https://github.com/v-modal/vmodal_sdk_flutter.git &
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
+          git clone https://github.com/v-modal/vmodal_sdk_smartglass &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
           python -m pip install vmodal
+
 
 
