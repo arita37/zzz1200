@@ -52,7 +52,11 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
           git clone https://github.com/v-modal/vmodal_sdk_smartglass &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
-          python -m pip install vmodal
+          python -m pip install vmodal &
+          sudo snap install flutter --classic
+          flutter create my_app
+          cd my_app
+          flutter pub add vmodal_sdk_flutter
 
 
 
@@ -81,7 +85,11 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_flutter.git &
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
-          python -m pip install vmodal
+          python -m pip install vmodal &
+          sudo snap install flutter --classic
+          flutter create my_app
+          cd my_app
+          flutter pub add vmodal_sdk_flutter
 
 
 
@@ -108,7 +116,11 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
           git clone https://github.com/v-modal/vmodal_sdk_smartglass &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
-          python -m pip install vmodal
+          python -m pip install vmodal &
+          sudo snap install flutter --classic
+          flutter create my_app
+          cd my_app
+          flutter pub add vmodal_sdk_flutter
 
 
 
@@ -123,7 +135,11 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
           git clone https://github.com/v-modal/vmodal_sdk_smartglass &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
-          python -m pip install vmodal
+          python -m pip install vmodal &
+          sudo snap install flutter --classic
+          flutter create my_app
+          cd my_app
+          flutter pub add vmodal_sdk_flutter
 
 
 
@@ -138,7 +154,11 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_flutter.git &
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
-          python -m pip install vmodal
+          python -m pip install vmodal &
+          sudo snap install flutter --classic
+          flutter create my_app
+          cd my_app
+          flutter pub add vmodal_sdk_flutter
 
 
   sync13:
@@ -151,7 +171,11 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
           git clone https://github.com/v-modal/vmodal_sdk_smartglass &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
-          python -m pip install vmodal
+          python -m pip install vmodal &
+          sudo snap install flutter --classic
+          flutter create my_app
+          cd my_app
+          flutter pub add vmodal_sdk_flutter
 
 
 
@@ -166,7 +190,11 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
           git clone https://github.com/v-modal/vmodal_sdk_smartglass &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
-          python -m pip install vmodal
+          python -m pip install vmodal &
+          sudo snap install flutter --classic
+          flutter create my_app
+          cd my_app
+          flutter pub add vmodal_sdk_flutter
 
 
 
@@ -180,7 +208,11 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_flutter.git &
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
-          python -m pip install vmodal
+          python -m pip install vmodal &
+          sudo snap install flutter --classic
+          flutter create my_app
+          cd my_app
+          flutter pub add vmodal_sdk_flutter
 
 
 
@@ -194,7 +226,11 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
           git clone https://github.com/v-modal/vmodal_sdk_smartglass &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
-          python -m pip install vmodal
+          python -m pip install vmodal &
+          sudo snap install flutter --classic
+          flutter create my_app
+          cd my_app
+          flutter pub add vmodal_sdk_flutter
 
 
 
@@ -208,7 +244,11 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_flutter.git &
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
-          python -m pip install vmodal
+          python -m pip install vmodal &
+          sudo snap install flutter --classic
+          flutter create my_app
+          cd my_app
+          flutter pub add vmodal_sdk_flutter
 
 
 
@@ -222,7 +262,11 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
           git clone https://github.com/v-modal/vmodal_sdk_smartglass &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
-          python -m pip install vmodal
+          python -m pip install vmodal &
+          sudo snap install flutter --classic
+          flutter create my_app
+          cd my_app
+          flutter pub add vmodal_sdk_flutter
 
 
 
