@@ -18,7 +18,10 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
           git clone https://github.com/v-modal/vmodal_sdk_smartglass &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
-          python -m pip install vmodal
+          python -m pip install vmodal &
+          sudo apt-get update && sudo apt-get install -y flutter-tester
+          flutter pub add vmodal_sdk_flutter
+
 
   sync2:
     runs-on: ubuntu-latest
@@ -30,8 +33,9 @@ jobs:
           git clone https://github.com/v-modal/vmodal_sdk_robotics.git  &
           git clone https://github.com/v-modal/vmodal_sdk_smartglass &
           git clone https://github.com/v-modal/vmodal_sdk_swift_iphoneduo.git 
-          python -m pip install vmodal
-
+          python -m pip install vmodal &
+          sudo apt-get update && sudo apt-get install -y flutter-tester
+          flutter pub add vmodal_sdk_flutter
 
 
   sync3:
